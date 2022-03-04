@@ -1,0 +1,49 @@
+.title,
+.list,
+.steps,
+.back,
+p,
+#ingredients {
+    font-family: monospace;
+}
+
+.title,
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(231, 193, 121);
+}
+
+#ingredients {
+    font-size: 30px;
+    color: rgb(150, 63, 29);
+}
+
+.title {
+    color: rgb(88, 10, 88);
+    background-color: rgb(235, 211, 211);
+    font-size: 40px;
+}
+
+.list, 
+p {
+    font-size: 19px;
+}
+
+.steps {
+    font-size: 26px;
+    color: rgb(27, 77, 133);
+
+}
+
+.pic {
+    width: 450px;
+    height: auto;
+}
+
+.back {
+    font-size: 20px;
+    background-color: azure;
+}
